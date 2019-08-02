@@ -18,7 +18,6 @@ class Repository {
     }
     item = await apiProvider.fetchItem(id);
     dbProvider.addItem(item);
-
     return item;
   }
 }
