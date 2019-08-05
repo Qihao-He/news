@@ -50,6 +50,7 @@ class NewsListTile extends StatelessWidget {
           ),
         ),
         Divider(
+          color: Colors.grey[400],
           height: 8.0,
         ),
       ],
