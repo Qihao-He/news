@@ -23,7 +23,7 @@ class App extends StatelessWidget {
     } else {
       return MaterialPageRoute(
         builder: (context) {
-          // extract teh item Id from settings.name and pass into NewsDetail
+          // extract the item Id from settings.name and pass into NewsDetail
           return NewsDetail();
         },
       );
