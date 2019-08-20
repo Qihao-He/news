@@ -1,5 +1,5 @@
 name: news
-description: A new Flutter project.
+description: A new Flutter project. Get news from URL, load more with scroll, store on local cache, refresh clean up cache.
 
 # The following defines the version and build number for your application.
 # A version number is three numbers separated by dots, like 1.2.43
